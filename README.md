@@ -1,2 +1,2 @@
 # JetBrains
-JetBrains Academy deki bölüm sonu projeleri için yazdığım kodlar
+JetBrains Academy deki bazı sonu tamamlama projeleri için yazdığım kodlar.
